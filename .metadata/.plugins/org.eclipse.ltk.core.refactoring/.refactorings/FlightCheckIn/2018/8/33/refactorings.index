@@ -1,0 +1,4 @@
+1534401963445	Rename type 'ReservationRestClient'
+1534403971890	Rename type 'ReservationRESTClient'
+1534404647353	Extract constant 'HTTP_LOCALHOST8080_FLIGHT_RESERVATION_RESERVATIONS'
+1534404839009	Rename resource 'webapps'

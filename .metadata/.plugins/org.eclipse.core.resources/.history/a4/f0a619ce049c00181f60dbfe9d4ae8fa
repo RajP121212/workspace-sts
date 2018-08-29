@@ -1,0 +1,5 @@
+package com.suraj.flightReservation.entities;
+
+public class Passenger {
+
+}

@@ -1,0 +1,10 @@
+package com.suraj.flightReservation.entities;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "PASSENGER")
+public class Passenger {
+
+}

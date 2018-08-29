@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.suraj.location.util.ReportUtil&apos; to &apos;IReportUtil&apos;&#x0D;&#x0A;- Original project: &apos;LocationWebProject&apos;&#x0D;&#x0A;- Original element: &apos;com.suraj.location.util.ReportUtil&apos;&#x0D;&#x0A;- Renamed element: &apos;com.suraj.location.util.IReportUtil&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ReportUtil&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;com.suraj.location.util{ReportUtil.java[ReportUtil" matchStrategy="1" name="IReportUtil" qualified="false" references="true" similarDeclarations="false" stamp="1533585086315" textual="false" version="1.0"/>
+</session>

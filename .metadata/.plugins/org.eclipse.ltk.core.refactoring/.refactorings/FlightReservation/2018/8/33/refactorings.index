@@ -1,0 +1,13 @@
+1534034096538	Copy compilation unit
+1534034102606	Delete element
+1534034178972	Rename type 'UserService'
+1534034494809	Rename type 'UserService'
+1534132947691	Rename type 'UserServiceImpl'
+1534133071534	Rename type 'UserService'
+1534139071846	Rename resource 'login.jsp'
+1534140114904	Rename resource 'userLogin.jsp'
+1534228230405	Move 'showCompleteReservation.jsp' to 'jsps'
+1534314815851	Inline local variable 'reservation'
+1534315274836	Inline local variable 'saveReservation'
+1534401561931	Copy compilation units
+1534401604822	Copy compilation unit

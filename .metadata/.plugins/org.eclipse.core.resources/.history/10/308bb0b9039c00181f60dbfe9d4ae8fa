@@ -1,0 +1,9 @@
+package com.suraj.flightReservation.entities;
+
+import javax.persistence.Entity;
+
+@Entity
+@Table(name = "USER")
+public class User {
+
+}
